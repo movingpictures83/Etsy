@@ -1,0 +1,2 @@
+Prefix plugins/Etsy/example/
+Plugin Etsy inputfile table.qza outputfile alpha_diversity.qza
